@@ -64,5 +64,5 @@ This repository contains a step-by-step guide to manage projects on Google Cloud
 
 ## Contributors
 
-- [Sherry](https://github.com/yourusername)
+- [Sherry](https://github.com/sh-osama-sami)
 
